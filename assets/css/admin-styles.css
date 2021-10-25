@@ -1,0 +1,97 @@
+.postbox-container .postbox {
+	border-radius: 8px;
+	border-color: #E1E1E1;
+}
+
+.postbox-container .postbox .postbox-header {
+	border-bottom-color: #E1E1E1;
+	/*background-color: #F9F9F9;*/
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+
+.postbox-container .postbox .postbox-header h2 {
+	padding: 12px 12px !important;
+	font-weight: 600;
+}
+
+.postbox-container .cmb2-postbox .cmb-row:not(:last-of-type) {
+    border-bottom: none !important;
+}
+
+.postbox-container .cmb2-postbox .cmb2-wrap>.cmb-field-list>.cmb-row {
+	padding: 1em 0;
+}
+
+.postbox-container .postbox .cmb-type-title.cmb-row {
+	/* Eh, nothing */
+}
+
+.postbox-container .postbox .cmb-type-title h5 {
+	font-size: 1.25rem;
+	font-weight: 700;
+	line-height: 1;
+	text-transform: none;
+	padding-bottom: 0.75em;
+}
+
+.postbox-container .postbox .cmb-type-title h5 .dashicons-before:before {
+	margin-right: 8px;
+}
+
+.postbox-container .postbox .cmb-type-title p.cmb2-metabox-description {
+	display: block;
+	text-transform: none;
+	font-size: 0.875rem;
+	font-weight: 400;
+	color: rgba(29,35,39,0.75);
+	background-color: #F9F9F9;
+	margin-left: -12px;
+	margin-right: -12px;
+	padding: 1em 20% 1em 12px !important;
+}
+
+.postbox-container .cmb2-postbox .button-secondary {
+	border:  none;
+	font-weight: 600;
+	min-height: 40px;
+	padding: 0 20px;
+	border-radius: 8px;
+}
+
+.postbox-container .cmb2-postbox .cmb-th label {
+	font-weight: 500;
+}
+
+.postbox-container .cmb2-postbox .cmb-repeat-table {
+	border-radius: 6px;
+}
+
+.postbox-container .cmb2-postbox .cmb2-media-status .img-status img {
+	border: none !important;
+	box-shadow: none !important;
+	border-radius: 8px;
+}
+
+.postbox-container .cmb2-postbox input[type=color], 
+.postbox-container .cmb2-postbox input[type=date], 
+.postbox-container .cmb2-postbox input[type=datetime-local], 
+.postbox-container .cmb2-postbox input[type=datetime], 
+.postbox-container .cmb2-postbox input[type=email], 
+.postbox-container .cmb2-postbox input[type=month], 
+.postbox-container .cmb2-postbox input[type=number], 
+.postbox-container .cmb2-postbox input[type=password], 
+.postbox-container .cmb2-postbox input[type=search], 
+.postbox-container .cmb2-postbox input[type=tel], 
+.postbox-container .cmb2-postbox input[type=text], 
+.postbox-container .cmb2-postbox input[type=time], 
+.postbox-container .cmb2-postbox input[type=url], 
+.postbox-container .cmb2-postbox input[type=week], 
+.postbox-container .cmb2-postbox select, 
+.postbox-container .cmb2-postbox textarea {
+	border-color: #D0D0D0;
+}
+
+
+
+
