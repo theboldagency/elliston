@@ -1,3 +1,94 @@
+/* OPTION PAGES */
+
+.cmb2-options-page .elliston-theme-options-box .cmb2-metabox>.cmb-row {
+	border: none !important;
+}
+
+.cmb2-options-page .elliston-theme-options-box .cmb2-metabox>.cmb-row.elliston-section-heading {
+	display: block;
+	background: #fff !important;
+	border-bottom-width: 0 !important;
+	padding-bottom: 1.5em;
+}
+
+.cmb2-options-page .elliston-theme-options-box .elliston-section-heading h3.cmb2-metabox-title {
+	font-size: 1.25rem !important;
+	font-weight: 700 !important;
+	line-height: 0.95 !important;
+	text-transform: none !important;
+	display: inline-block !important;
+	padding-top: 0.75em !important;
+	padding-bottom: 1em !important;
+}
+
+.cmb2-options-page .elliston-theme-options-box .elliston-section-heading h3.cmb2-metabox-title span.dashicons-before:before {
+	margin-right: 0.375em;
+}
+
+.cmb2-options-page .elliston-theme-options-box .elliston-section-heading .cmb2-metabox-description {
+	display: block;
+	text-transform: none;
+	font-size: 0.875rem;
+	font-weight: 400;
+	color: rgba(29,35,39,0.75);
+	background-color: #F9F9F9;
+	margin-left: -1em;
+	margin-right: -1em;
+	padding: 1em 20% 1em 1em !important;
+}
+
+.cmb2-options-page .elliston-theme-options-box .cmb-type-title {
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+
+.cmb2-options-page .elliston-theme-options-box .elliston-end-row {
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	padding-bottom: 2em !important;
+	margin-bottom: 2em !important;
+}
+
+.cmb2-options-page .elliston-theme-options-box .cmb2-media-status .img-status img {
+	border: none !important;
+	box-shadow: none !important;
+	border-radius: 8px;
+}
+
+.cmb2-options-page .elliston-theme-options-box .cmb-th label {
+	font-weight: 600;
+}
+
+
+
+span.elliston-theme-options-headline {
+	font-weight: 700 !important;
+	font-size: 1.75rem;
+	letter-spacing: -0.003em;
+	display: block;
+}
+
+span.elliston-theme-options-headline:before {
+	content: ' ';
+	display: inline-block;
+	vertical-align: middle;
+	width: 64px;
+	height: 64px;
+	border-radius: 32px;
+	background-color: gray;
+	margin-right: 16px;
+}
+
+.cmb2-options-page .elliston-theme-options-box .button-secondary {
+	border:  none;
+	font-weight: 600;
+	min-height: 40px;
+	padding: 0 20px;
+	border-radius: 8px;
+}
+
+/* POST LEVEL OPTIONS */
+
 .postbox-container .postbox {
 	border-radius: 8px;
 	border-color: #E1E1E1;
