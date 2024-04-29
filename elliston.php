@@ -3,7 +3,7 @@
  * Plugin Name: Elliston
  * Plugin URI:
  * Description: Bold's in-house brew of custom editor styles and enhancements.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: The Bold Agency
  * Author URI: https://theboldagency.co
  */

@@ -217,5 +217,31 @@ span.elliston-theme-options-headline:before {
 }
 
 
+.cmb-repeatable-group.non-sortable.non-repeatable {
+	overflow: hidden;
+	border-radius: 6px;
+	box-shadow: 0 0 0 2px #e9e9e9 inset, 4px 4px 0 0 #F7F7F7;
+	
+}
 
+.cmb-repeatable-group.non-sortable.non-repeatable .cmb-repeatable-grouping {
+	margin-bottom: 0;
+	border: none !important;
+}
 
+.cmb-repeatable-group.non-sortable.non-repeatable .postbox {
+	background-color: transparent;
+}
+
+.cmb-repeat-group-wrap:has( .cmb-repeatable-group.non-sortable.non-repeatable ) {
+	margin: 0 0 16px 0;
+	padding: 0 !important;
+}
+
+#poststuff .cmb-repeatable-group.non-sortable.non-repeatable .cmb-group-title.cmbhandle-title {
+	padding: 12px 20px !important;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	font-size: 0.75rem !important;
+}
