@@ -247,19 +247,25 @@ span.elliston-theme-options-headline:before {
 
 #poststuff .cmb-repeatable-group .cmb-group-title.cmbhandle-title {
 	padding: 12px 20px !important;
-	font-weight: 800;
+	font-weight: 700;
 	/* text-transform: uppercase;
 	letter-spacing: 0.05em; */
 	font-size: 0.75rem !important;
 }
 
 .postbox-container .cmb2-metabox button.dashicons-before.dashicons-no-alt.cmb-remove-group-row, .postbox-container .cmb2-metabox button.dashicons-before.dashicons-no-alt.cmb-remove-group-row {
-	left: -10px !important;
-	padding: 4px;
-	background: #fff !important;
+	left: -4px !important;
+	top: 10px !important;
+	padding: 0;
 	width: 20px;
 	height: 20px;
 	display: inline-block !important;
 	line-height: 1;
-	vertical-align: middle;
+	background: #F9F9F9 !important;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.postbox-container .cmb2-metabox button.dashicons-before.dashicons-no-alt.cmb-remove-group-row:before, .postbox-container .cmb2-metabox button.dashicons-before.dashicons-no-alt.cmb-remove-group-row:before {
+	
 }
